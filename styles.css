@@ -1,0 +1,15 @@
+.btngtf{
+    background: #025157;
+    padding: 15px 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 14px;
+}
+.nav-link{
+    color: #025157;
+}
+.jumbotron>h1{
+    font-size: 68px;
+    color: #025157;
+}
